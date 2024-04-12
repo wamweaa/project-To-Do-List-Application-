@@ -58,7 +58,7 @@ function renderTask(taskText, completed) {
 
     const deleteButton = document.createElement('button');
      //const deleteButton = document.getElementById('deleteButton')
-    deleteButton.innerHTML = '❌';
+    deleteButton.innerHTML = 'delete';
     deleteButton.classList.add('delete-btn');//the classlist allows you to toggle,add or delete them without directly manipulating them
     deleteButton.addEventListener('click', function() {
         taskItem.remove();
