@@ -87,8 +87,10 @@ ul {
   display: flex;
   border: solid;
   background-color: #0056b3;
+  margin-bottom: 50px;
 }
 .about{
   padding-left: 20px;
+  
   
 }
