@@ -2,9 +2,6 @@ body {
   font-family: Arial, sans-serif;
   background-color: #12171f;
   border-radius: 20px;
-  
-  
-  
 }
 
 .container {
@@ -41,7 +38,6 @@ button {
 
 button:hover {
   background-color: #0056b3;
-  
 }
 
 ul {
@@ -49,48 +45,41 @@ ul {
   padding: 0;
 }
 
-
 .completed {
   text-decoration: line-through;
   opacity: 0.5;
 }
-.Default{
-    background-color: #0056b3;
-    
+.Default {
+  background-color: #0056b3;
 }
-.def{
-    color: #f9f9f9;
+.def {
+  color: #f9f9f9;
+}
 
+.qt {
+  text-align: center;
+  /* background-color: #222427; */
+  color: #f9f9f9;
 }
- 
-.qt{
-    text-align: center;
-    /* background-color: #222427; */
-    color: #f9f9f9;
-    
-  
-}
-#quote{
+#quote {
   font-family: Arial, sans-serif;
   border: 0px solid;
-  
 }
-#logo{
+#logo {
   height: 50px;
 }
-.topic{
+.topic {
   color: #cfd7e6;
   font-family: Arial, sans-serif;
   display: flex;
 }
-#heading{
-  display: flex;
+#heading {
+  display: flex ;
   border: solid;
   background-color: #0056b3;
   margin-bottom: 50px;
+  
 }
-.about{
+.about {
   padding-left: 20px;
-  
-  
 }
