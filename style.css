@@ -64,9 +64,11 @@ ul {
 #quote {
   font-family: Arial, sans-serif;
   border: 0px solid;
+
 }
 #logo {
-  height: 50px;
+  height: 60px;
+  width: 60px;
 }
 .topic {
   color: #020202;
