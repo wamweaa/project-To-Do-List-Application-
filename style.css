@@ -2,7 +2,6 @@ body {
   font-family: Arial, sans-serif;
   background-color: #12171f;
   border-radius: 20px;
-  background-image:url() ;
 }
 
 .container {
@@ -70,16 +69,12 @@ ul {
   height: 50px;
 }
 .topic {
-  color: #cfd7e6;
+  color: #020202;
   font-family: Arial, sans-serif;
   display: flex;
 }
 #heading {
-  display: flex ;
-  border: solid;
-  background-color: #0056b3;
-  margin-bottom: 50px;
-  
+color: #a8adb3;
 }
 .about {
   padding-left: 20px;
