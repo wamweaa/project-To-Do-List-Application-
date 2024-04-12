@@ -11,7 +11,7 @@ body {
   max-width: 600px;
   margin: 30px auto;
   padding: 20px;
-  background-color: #d0d6dd;
+  background-color: #a8adb3;
   border-radius: 5px;
   box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
   color: #f9f9f9;
@@ -82,4 +82,9 @@ ul {
   color: #cfd7e6;
   font-family: Arial, sans-serif;
   display: flex;
+}
+#heading{
+  display: flex;
+  border: solid;
+  background-color: #0056b3;
 }
