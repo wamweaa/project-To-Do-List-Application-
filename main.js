@@ -68,7 +68,7 @@ function renderTask(taskText, completed) {
 
     const completeButton = document.createElement('button');
     //const completeButton = document.getElementById('completeButton')
-    completeButton.innerHTML = '✅';
+    completeButton.innerHTML = '✅︎';
     completeButton.classList.add('complete-btn');
     completeButton.addEventListener('click', function() {
         taskItem.classList.toggle('completed');
